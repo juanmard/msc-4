@@ -35,6 +35,6 @@ Toda la documentación se está escribiendo en la wiki de github de este repo:
   * **Visualizador de señales**: [Gtkwave](http://gtkwave.sourceforge.net/)
   
 # Licencia
-![](https://github.com/juanmard/msc-4/raw/master/doc/images/ridotech-logo.png)
+<img src="https://github.com/juanmard/msc-4/raw/master/doc/images/ridotech-logo.png" width="114" height="85">
 
 Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
