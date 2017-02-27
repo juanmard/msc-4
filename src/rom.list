@@ -1,0 +1,10 @@
+// Código para prueba bus data del 4004.
+00      // NOP
+D1      // LDM 1
+81      // ADD R1
+33      // JIN R1
+00
+00
+00
+00
+00
